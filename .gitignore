@@ -1,0 +1,21 @@
+# Do not publish confidential or licensed media
+*.mp3
+*.wav
+*.m4a
+*.aiff
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.ipynb
+*.key
+*.pem
+.env
+.env.*
+__pycache__/
+*.pyc
+output/
+.cache/
+*.log
+.DS_Store
