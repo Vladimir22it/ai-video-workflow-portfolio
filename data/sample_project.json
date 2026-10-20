@@ -1,0 +1,23 @@
+{
+  "title": "Synthetic Video Workflow Demo",
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "scenes": [
+    {
+      "text": "Creative brief",
+      "color": "0x14324B",
+      "duration": 2
+    },
+    {
+      "text": "Automated rendering",
+      "color": "0x33505B",
+      "duration": 2
+    },
+    {
+      "text": "Human quality review",
+      "color": "0x365948",
+      "duration": 2
+    }
+  ]
+}
